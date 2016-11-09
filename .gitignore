@@ -3,3 +3,7 @@
 ################################################################################
 
 /Tokenizer.Web/obj/Debug
+/Tokenizer.Web/bin
+/packages
+/.vs
+/Tokenizer.Web/Tokenizer.Web.csproj.user
