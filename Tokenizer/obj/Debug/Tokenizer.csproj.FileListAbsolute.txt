@@ -1,0 +1,5 @@
+C:\Users\marcin.sulima\Documents\Visual Studio 2015\Projects\TokensExplorer\Tokenizer\bin\Debug\Tokenizer.exe.config
+C:\Users\marcin.sulima\Documents\Visual Studio 2015\Projects\TokensExplorer\Tokenizer\bin\Debug\Tokenizer.exe
+C:\Users\marcin.sulima\Documents\Visual Studio 2015\Projects\TokensExplorer\Tokenizer\bin\Debug\Tokenizer.pdb
+C:\Users\marcin.sulima\Documents\Visual Studio 2015\Projects\TokensExplorer\Tokenizer\obj\Debug\Tokenizer.exe
+C:\Users\marcin.sulima\Documents\Visual Studio 2015\Projects\TokensExplorer\Tokenizer\obj\Debug\Tokenizer.pdb

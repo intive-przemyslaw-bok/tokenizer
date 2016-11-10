@@ -1,0 +1,4 @@
+C:\Users\marcin.sulima\Documents\Visual Studio 2015\Projects\TokensExplorer\TokenizerBase\bin\Debug\TokenizerBase.dll
+C:\Users\marcin.sulima\Documents\Visual Studio 2015\Projects\TokensExplorer\TokenizerBase\bin\Debug\TokenizerBase.pdb
+C:\Users\marcin.sulima\Documents\Visual Studio 2015\Projects\TokensExplorer\TokenizerBase\obj\Debug\TokenizerBase.dll
+C:\Users\marcin.sulima\Documents\Visual Studio 2015\Projects\TokensExplorer\TokenizerBase\obj\Debug\TokenizerBase.pdb

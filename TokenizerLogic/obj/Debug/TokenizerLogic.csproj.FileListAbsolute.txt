@@ -1,0 +1,1 @@
+C:\Users\marcin.sulima\Documents\Visual Studio 2015\Projects\TokensExplorer\TokenizerLogic\obj\Debug\TokenizerLogic.csprojResolveAssemblyReference.cache
